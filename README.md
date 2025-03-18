@@ -7,7 +7,7 @@
 - **Key Management**: Support for loading, creating, saving, and deleting encryption keys from a local file and remove vault
 - **Password Generation**: Generate secure, random passwords of a specified length.
 - **Multiple Vault Types**: 
-  - Currently: local and and HashiCorp Vault
+  - Currently: local and and [HashiCorp Vault](https://portal.cloud.hashicorp.com/sign-in)
 
 ## Documentation
 
